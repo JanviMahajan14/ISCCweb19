@@ -32,9 +32,9 @@ website as interactive as possible.
 5. Informal events like singing and dance competition.
 6. Logo of our Sponsors.
 7. Gallery page including pics of last fest.
-8. Social awareness initiative  - last year it was samriddhi which was concerned with menstrual hygiene
+8. Social awareness initiative  - last year it was samriddhi who was concerned with menstrual hygiene.
 9. Our team - convenor , tech core , pr core, hr core , sponsorship core.
-10. A button with generates  a customised pass with a random unique number.
+10. A button which generates  a customised pass with a random unique number.
 
 
 All you need to do is create a dummy for us. Take any images. Make sure you make it highly interactive.
